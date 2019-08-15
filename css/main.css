@@ -3460,7 +3460,7 @@ a.logo.vertical_logo img {
 
 .intro_section.page_mainslider .flex-direction-nav a:before,
 .intro_section.page_mainslider .page_maincarousel .owl-nav > div:before {
-	content: "NEXT";
+	content: "SIGUIENTE";
 	font-family: 'Roboto', sans-serif;
 	position: absolute;
 	top: 50%;
@@ -3517,7 +3517,7 @@ a.logo.vertical_logo img {
 
 .intro_section.page_mainslider .flex-direction-nav a.flex-prev:before,
 .intro_section.page_mainslider .page_maincarousel .owl-nav > div:first-child:before {
-	content: "PREV";
+	content: "ANTERIOR";
 }
 
 .boxed .intro_section.page_mainslider .flex-direction-nav a.flex-prev, .boxed
